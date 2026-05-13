@@ -153,7 +153,7 @@ export function AppNavigator() {
 
   const ONESIGNAL_KEY = `fabd66f6-2b65-49aa-8e9f-c0a812c2236b`;
 
-  const TARGET_DATA = new Date(2026, 4, 12, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 15, 8, 8, 0);
 
   const FATCH_TO_OUR_BACK = `https://urban-signal-point.site/`;
 
