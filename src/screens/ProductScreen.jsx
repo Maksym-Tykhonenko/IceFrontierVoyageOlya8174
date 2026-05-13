@@ -31,7 +31,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://quick-zone-port.site/`;
   const URL_IDENTIFAIRE = `PK4ZXBtE`;
 
-  const FATCH_TO_OUR_BACK = `https://urban-bloom.site/`;
+  const FATCH_TO_OUR_BACK = `https://urban-signal-point.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);

